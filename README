@@ -1,6 +1,9 @@
 to run
 ./prime_dec.rb
 
+PRIMES taken from
+http://rlrr.drum-corps.net/misc/primes1.shtml
+
 
 to add more primes, just add more to the array
 
